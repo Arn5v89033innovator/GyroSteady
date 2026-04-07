@@ -203,7 +203,7 @@ ArduStab/
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Author - Arnav Upadhyay
 
 Made with ❤️ and a soldering iron.  
 Feel free to fork, improve, and share!
